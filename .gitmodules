@@ -25,3 +25,6 @@
 [submodule "cookbooks/postfix"]
 	path = cookbooks/postfix
 	url = https://github.com/opscode-cookbooks/postfix
+[submodule "cookbooks/composer"]
+	path = cookbooks/composer
+	url = https://github.com/chay83/composer-cookbook.git
